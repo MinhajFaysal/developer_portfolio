@@ -60,6 +60,6 @@ section{
 }
 #second-exp{
     border-left: 6px solid;
-    border-image: linear-gradient(salmon, orangegit add .);
+    border-image: linear-gradient(salmon, orange);
     border-image-slice: 1;
 }
