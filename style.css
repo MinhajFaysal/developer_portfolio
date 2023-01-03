@@ -2,6 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
+
 h1{
     font-size: 50px;
 }
@@ -35,4 +36,30 @@ section{
     background-image: url(img/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+#experience{
+    text-align: center;
+    color: tomato;
+}
+.Experience-are{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+}
+.experience-item{
+    width: 40%;
+    border-radius: 12px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 30px;
+    box-shadow: 10px 10px 40px gray;
+}
+#first-exp{
+    border-left: 6px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+#second-exp{
+    border-left: 6px solid;
+    border-image: linear-gradient(salmon, orangegit add .);
+    border-image-slice: 1;
 }
